@@ -129,7 +129,7 @@ ipconfig /renew
 
 _Konfirmojmë që paisja Windows nuk u lidh dot me rrjetin me `ipconfig`_
 
-![ipconfig-failed](./before%20starvation%20ping.png)
+![ipconfig-failed](./ipconfig-failed.png)
 
 ### Faza 5: Rikthimi i gjendjes normale
 
