@@ -101,12 +101,6 @@ _Shohim që e gjitha DHCP pool është mbushur_
 
 ![DHCPig end](./dhcpig-end.png)
 
----
-
----
-
----
-
 ### Faza 4: Verifikimi i ndikimit te target-i
 
 Pas fillimit të sulmit, në hostin Windows u ekzekutuan komandat `ipconfig /release` dhe `ipconfig /renew` për të simuluar një kërkesë të re të klientit për një `IP`.
